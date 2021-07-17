@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/apples/green_apple"
+		"layer0": "apples/green_apple"
 	}
 }
