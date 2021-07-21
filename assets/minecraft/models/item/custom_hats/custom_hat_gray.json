@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "custom_hats/custom_hat_white"
+		"2": "custom_hats/custom_hat_gray"
 	},
 	"elements": [
 		{
